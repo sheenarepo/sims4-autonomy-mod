@@ -56,7 +56,6 @@ def show_main_menu():
             '{} energy threshold: {}%'.format(LABELS[kind], block['energy_threshold']),
             'Sims only choose to {} on their own when energy is at or below this.'.format(kind),
             ('setting', kind, 'energy_threshold'),
-            dialogs.bar_icon(block['energy_threshold']),
         ))
     rows.append(('Reset everything to defaults', 'Put every setting back to its default.',
                  ('reset_all', None, None)))
