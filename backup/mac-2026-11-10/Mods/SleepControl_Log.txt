@@ -1,0 +1,212 @@
+2026-10-09 19:08:44 Sleep Control 0.1.0 starting, settings at /Users/sheena/Documents/Electronic Arts/The Sims 4/Mods/SleepControl_Settings.json
+2026-10-09 19:08:44 Autonomy hook installed
+2026-10-09 19:09:10 Computer menu added to 18 objects: object_Computer, object_ComputerGlasses, object_Computer_AlienComp, object_Computer_CrimSuitcase, object_Computer_DS, object_Computer_EP01RWmodern, object_Computer_EP03ENTHIGHmetal, object_Computer_EP12RWexpert, object_Computer_EP12expertPC, object_Computer_EP12starterPC, object_Computer_High, object_Computer_PRIM, object_Computer_TP01HOME, object_Computer_Tesla, object_Computer_TopQuality_DualMonitor, object_Computer_Vintage, object_Computer_Webcam, object_computerLOW_01
+2026-10-09 19:14:59 Sleep-allow buff found: buff_AllowSleepDesire
+2026-10-09 19:14:59 Energy need found: <class 'sims4.tuning.instances.motive_Energy'>
+2026-10-09 19:23:20 Sleep Control 0.1.0 starting, settings at /Users/sheena/Documents/Electronic Arts/The Sims 4/Mods/SleepControl_Settings.json
+2026-10-09 19:23:20 Autonomy hook installed
+2026-10-09 19:23:49 Computer menu added to 18 objects: object_Computer, object_ComputerGlasses, object_Computer_AlienComp, object_Computer_CrimSuitcase, object_Computer_DS, object_Computer_EP01RWmodern, object_Computer_EP03ENTHIGHmetal, object_Computer_EP12RWexpert, object_Computer_EP12expertPC, object_Computer_EP12starterPC, object_Computer_High, object_Computer_PRIM, object_Computer_TP01HOME, object_Computer_Tesla, object_Computer_TopQuality_DualMonitor, object_Computer_Vintage, object_Computer_Webcam, object_computerLOW_01
+2026-10-09 19:24:37 Sleep-allow buff found: buff_AllowSleepDesire
+2026-10-09 19:24:37 Energy need found: <class 'sims4.tuning.instances.motive_Energy'>
+2026-10-09 19:29:54 sleep interactions (29): EP16World_Motel_Sleep, Tent_Sleep, bed_Autonomous_DoubleBed_Sleep, bed_Autonomous_DoubleBed_Sleep_Child, bed_Autonomous_SingleBed_Sleep, bed_Autonomous_SingleBed_Sleep_Child, bed_Autonomous_Sleep_NoAutonomyPref_DoubleBed, bed_Autonomous_Sleep_NoAutonomyPref_SingleBed, bed_Sleep_MasteryPerk_SkillfulSleep, bed_Sleep_NoAutonomyPref, bed_Sleep_SleepingBag, bed_Sleep_Swallow, bed_sleep, bed_sleep_Werebies, coffin_Autonomous_Sleep, coffin_Sleep, dwelling_Sleep, generic_Bed_Sleep, generic_CoffinSleep, generic_NLS_SleepOnGround, generic_SleepingBag_Sleep, interactableCave_Sleep, kidsTent_Sleep, sI_NLS_SleepOnGround_Comfortable, si_NLS_SleepOnGround_Uncomfortable, sleepingPod_Interactions_Sleep, sleepingPod_Interactions_Sleep_Upgraded, super_FairyHome_Object_Sleep, super_Treehouse_Enclosure_Sleep
+2026-10-09 19:29:54 nap interactions (40): Tent_Nap, bathtub_Nap, bathtub_Nap_Mermaid, beachTowel_Nap, bed_Autonomous_DoubleBed_Nap, bed_Autonomous_DoubleBed_Nap_Child, bed_Autonomous_SingleBed_Nap, bed_Autonomous_SingleBed_Nap_Child, bed_Nap, bed_Nap_SleepingBag, chair_BubbleBlower_Nap, chair_LoungeChair_Nap, chair_LoungeChair_NapFromRelax, chair_Nap, chair_Nap_RockingChair, chair_Nap_RockingChair_Elder, chair_SitLoungeFloat_Nap, chair_SitLoungeFloat_NapFromRelax, coffin_Autonomous_Nap, coffin_Nap, dumpster_Nap, generic_Bed_Nap, generic_Dumpster_Nap, generic_SleepingBag_Nap, generic_SofaNap, ghostPowers_Abilities_GhostNap, ghostPowers_Abilities_GhostNap_NPC_Autonomous, hotTub_Nap, interactiveBush_Nap, kidsTent_Nap, kotatsu_Nap, sectional_Sofa_Chaise_Nap, si_HotSprings_Nap, sleepingPod_Interactions_Nap, sleepingPod_Interactions_Nap_Upgraded, sofa_Nap, super_Treehouse_Enclosure_Nap, vault_WalkInSafe_Nap, werewolf_Abilities_Nap, werewolf_Abilities_Nap_Self
+2026-10-09 19:29:54 review interactions (34): Crypts_Nap, HighChair_Nap, atWorkActions_Daycare_Nap, bathtub_Nap_Loop, bathtub_Nap_Loop_Auto, beachTowel_Nap_PutInInventory_BeachTowel, bed_Nap_PowerNap, bed_Sleep_MasteryPerk_SkillfulSleep_FromLoad, chair_LoungeChair_RelaxFromNap, chair_LoungeChair_RelaxFromNap_Child, closet_TryNewOutfit_Gather_Sleep, costumeBox_CallToWear_Sleep, costumeBox_CalledToWear_Sleep, hospitalExamBed_Patient_Recline_Sleep, mannequin_OutfitChange_Generate_Sleep, masteryPerk_SkillfulSleep_AutonomyPing, napOnGround, pool-swim_Mermaid_Sleep_Autonomous, ranchNectarMaker_MasteryPerk_SkillfulSleep_Stomp, si_Touching_MurphyBed_Sleep_Swallow_Two_Sims, sit_Chaise_Mixers_Nap, sleep_Coffin_HumanNightmare, sleep_Coffin_VampireDaymare, sleep_MonsterUnderBed_High_Chance, sleep_MonsterUnderBed_Low_Chance, sleep_MonsterUnderBed_SetBed_Valid_Monster_Chance, sleep_MonsterUnderBed_Set_Active_Left, sleep_MonsterUnderBed_Set_Active_Right, sleep_Passive, sleep_Passive_Coffin, sleep_SleepingBag_Passive, superInteraction_FairyOccult_MotiveSolving_ShrinkandSleep_Dollhouse, superInteraction_FairyOccult_MotiveSolving_ShrinkandSleep_Piano, switch_outfit_Sleep
+2026-10-09 19:29:54 Computer menu interaction ID: 13307875736141832686
+2026-10-09 19:33:40 Sleep Control 0.1.0 starting, settings at /Users/sheena/Documents/Electronic Arts/The Sims 4/Mods/SleepControl_Settings.json
+2026-10-09 19:33:40 Autonomy hook installed
+2026-10-09 19:34:14 Computer menu added to 18 objects: object_Computer, object_ComputerGlasses, object_Computer_AlienComp, object_Computer_CrimSuitcase, object_Computer_DS, object_Computer_EP01RWmodern, object_Computer_EP03ENTHIGHmetal, object_Computer_EP12RWexpert, object_Computer_EP12expertPC, object_Computer_EP12starterPC, object_Computer_High, object_Computer_PRIM, object_Computer_TP01HOME, object_Computer_Tesla, object_Computer_TopQuality_DualMonitor, object_Computer_Vintage, object_Computer_Webcam, object_computerLOW_01
+2026-10-09 19:35:04 Sleep-allow buff found: buff_AllowSleepDesire
+2026-10-09 19:35:04 Energy need found: <class 'sims4.tuning.instances.motive_Energy'>
+2026-10-09 19:42:11 Sleep Control 0.1.0 starting, settings at /Users/sheena/Documents/Electronic Arts/The Sims 4/Mods/SleepControl_Settings.json
+2026-10-09 19:42:11 Autonomy hook installed
+2026-10-09 19:42:49 Computer menu added to 18 objects (marker <class 'sims4.tuning.instances.computer_Browse_Web'>): object_Computer, object_ComputerGlasses, object_Computer_AlienComp, object_Computer_CrimSuitcase, object_Computer_DS, object_Computer_EP01RWmodern, object_Computer_EP03ENTHIGHmetal, object_Computer_EP12RWexpert, object_Computer_EP12expertPC, object_Computer_EP12starterPC, object_Computer_High, object_Computer_PRIM, object_Computer_TP01HOME, object_Computer_Tesla, object_Computer_TopQuality_DualMonitor, object_Computer_Vintage, object_Computer_Webcam, object_computerLOW_01
+2026-10-09 19:43:35 Sleep-allow buff found: buff_AllowSleepDesire
+2026-10-09 19:43:35 Energy need found: <class 'sims4.tuning.instances.motive_Energy'>
+2026-10-09 19:43:35 DIAG: affordance=<class 'sims4.tuning.instances.SleepControl:Computer_OpenSettings'> allow_user_directed=True visible=False has_display_name=True
+2026-10-09 19:47:03 Sleep Control 0.1.0 starting, settings at /Users/sheena/Documents/Electronic Arts/The Sims 4/Mods/SleepControl_Settings.json
+2026-10-09 19:47:03 Autonomy hook installed
+2026-10-09 19:47:41 Computer menu added to 18 objects (marker <class 'sims4.tuning.instances.computer_Browse_Web'>): object_Computer, object_ComputerGlasses, object_Computer_AlienComp, object_Computer_CrimSuitcase, object_Computer_DS, object_Computer_EP01RWmodern, object_Computer_EP03ENTHIGHmetal, object_Computer_EP12RWexpert, object_Computer_EP12expertPC, object_Computer_EP12starterPC, object_Computer_High, object_Computer_PRIM, object_Computer_TP01HOME, object_Computer_Tesla, object_Computer_TopQuality_DualMonitor, object_Computer_Vintage, object_Computer_Webcam, object_computerLOW_01
+2026-10-09 19:48:22 Sleep-allow buff found: buff_AllowSleepDesire
+2026-10-09 19:48:22 Energy need found: <class 'sims4.tuning.instances.motive_Energy'>
+2026-10-09 19:48:22 DIAG: affordance=<class 'sims4.tuning.instances.SleepControl:Computer_OpenSettings'> allow_user_directed=True visible=False has_display_name=True
+2026-10-09 19:48:59 PROBE: 134 objects in object manager
+2026-10-09 19:48:59 PROBE: object_computerDesktopMED_01 browse=False has_menu=False is_computer=False base=GameObject guid=36369
+2026-10-09 19:48:59 PROBE: prototype_RetailCompatible_WallObject browse=False has_menu=False is_computer=False base=PrototypeObject guid=116915
+2026-10-09 19:48:59 PROBE: sample types: collectibles_Spawners_Frogs_Log, collectibles_Spawners_Frogs_Log_public, collectibles_Spawners_Rock_DigSite, collectibles_Spawners_Rock_public, default_jig, fire_alarm, fishingSpot_WillowCreek_Common_Freshwater, fishingSpot_WillowCreek_Rare_Freshwater, fishingSpot_WillowCreek_Uncommon_Freshwater, object_AttractorPoint, object_Counter_1part_deco, object_DirtMound, object_GardeningPlant_Bush_bluebell_public_garden, object_GardeningPlant_Bush_bluebell_wild, object_GardeningPlant_Bush_strawberry_public_garden, object_GardeningPlant_Flower_chrysanthemum_public_garden, object_GardeningPlant_Flower_snapdragon_public_garden, object_GardeningPlant_Flower_snapdragon_wild, object_GardeningPlant_Tree_apple_public_garden, object_GardeningPlant_Tuber_mushroom_garden, object_GardeningPlant_Tuber_mushroom_wild, object_GardeningPlant_Tuber_potato_garden, object_GardeningSoil, object_Mailbox, object_ShowerSC1x1_01, object_TableEnd, object_arch, object_bedDoubleSC_01, object_bookcaseWallSC1x1x2_01, object_computerDesktopMED_01, object_door, object_dresser_NarrowRoute, object_fridgeLOW_01, object_light_ceiling, object_light_floor, object_light_wall, object_mirror_wall, object_plant_non_gardening_generic_nonretail, object_sim, object_sinkCounterFC_01, object_sinkPedC_01, object_sitDecoBenchCE3x1_01, object_sitDiningSC_01, object_sitLoveseatSC2x1_01, object_stairs, object_stoveMinorLOW_01, object_tableDining_2x1, object_toiletC_02, object_trashcan_Indoor_MedCapacity, object_trashcan_outdoor, object_tvSurfaceLOW1x1_01, prototype, prototype_RetailCompatible_WallObject, rabbitHole_Tree
+2026-10-09 19:49:29 PROBE: 139 objects in object manager
+2026-10-09 19:49:29 PROBE: object_computerDesktopMED_01 browse=False has_menu=False is_computer=False base=GameObject guid=36369
+2026-10-09 19:49:29 PROBE: prototype_RetailCompatible_WallObject browse=False has_menu=False is_computer=False base=PrototypeObject guid=116915
+2026-10-09 19:49:29 PROBE: sample types: collectibles_Spawners_Frogs_Log, collectibles_Spawners_Frogs_Log_public, collectibles_Spawners_Rock_DigSite, collectibles_Spawners_Rock_public, default_jig, fire_alarm, fishingSpot_WillowCreek_Common_Freshwater, fishingSpot_WillowCreek_Rare_Freshwater, fishingSpot_WillowCreek_Uncommon_Freshwater, object_AttractorPoint, object_Counter_1part_deco, object_DirtMound, object_GardeningPlant_Bush_bluebell_public_garden, object_GardeningPlant_Bush_bluebell_wild, object_GardeningPlant_Bush_strawberry_public_garden, object_GardeningPlant_Flower_chrysanthemum_public_garden, object_GardeningPlant_Flower_snapdragon_public_garden, object_GardeningPlant_Flower_snapdragon_wild, object_GardeningPlant_Tree_apple_public_garden, object_GardeningPlant_Tuber_mushroom_garden, object_GardeningPlant_Tuber_mushroom_wild, object_GardeningPlant_Tuber_potato_garden, object_GardeningSoil, object_Mailbox, object_ShowerSC1x1_01, object_TableEnd, object_arch, object_bedDoubleSC_01, object_bookcaseWallSC1x1x2_01, object_computerDesktopMED_01, object_door, object_dresser_NarrowRoute, object_fridgeLOW_01, object_light_ceiling, object_light_floor, object_light_wall, object_mirror_wall, object_plant_non_gardening_generic_nonretail, object_sim, object_sinkCounterFC_01, object_sinkPedC_01, object_sitDecoBenchCE3x1_01, object_sitDiningSC_01, object_sitLoveseatSC2x1_01, object_stairs, object_stoveMinorLOW_01, object_tableDining_2x1, object_toiletC_02, object_trashcan_Indoor_MedCapacity, object_trashcan_outdoor, object_tvSurfaceLOW1x1_01, prototype, prototype_RetailCompatible_WallObject, rabbitHole_Tree
+2026-10-09 19:49:37 PROBE: 138 objects in object manager
+2026-10-09 19:49:37 PROBE: object_computerDesktopMED_01 browse=False has_menu=False is_computer=False base=GameObject guid=36369
+2026-10-09 19:49:37 PROBE: prototype_RetailCompatible_WallObject browse=False has_menu=False is_computer=False base=PrototypeObject guid=116915
+2026-10-09 19:49:37 PROBE: sample types: collectibles_Spawners_Frogs_Log, collectibles_Spawners_Frogs_Log_public, collectibles_Spawners_Rock_DigSite, collectibles_Spawners_Rock_public, default_jig, fire_alarm, fishingSpot_WillowCreek_Common_Freshwater, fishingSpot_WillowCreek_Rare_Freshwater, fishingSpot_WillowCreek_Uncommon_Freshwater, object_AttractorPoint, object_Counter_1part_deco, object_DirtMound, object_GardeningPlant_Bush_bluebell_public_garden, object_GardeningPlant_Bush_bluebell_wild, object_GardeningPlant_Bush_strawberry_public_garden, object_GardeningPlant_Flower_chrysanthemum_public_garden, object_GardeningPlant_Flower_snapdragon_public_garden, object_GardeningPlant_Flower_snapdragon_wild, object_GardeningPlant_Tree_apple_public_garden, object_GardeningPlant_Tuber_mushroom_garden, object_GardeningPlant_Tuber_mushroom_wild, object_GardeningPlant_Tuber_potato_garden, object_GardeningSoil, object_Mailbox, object_ShowerSC1x1_01, object_TableEnd, object_arch, object_bedDoubleSC_01, object_bookcaseWallSC1x1x2_01, object_computerDesktopMED_01, object_door, object_dresser_NarrowRoute, object_fridgeLOW_01, object_light_ceiling, object_light_floor, object_light_wall, object_mirror_wall, object_plant_non_gardening_generic_nonretail, object_sim, object_sinkCounterFC_01, object_sinkPedC_01, object_sitDecoBenchCE3x1_01, object_sitDiningSC_01, object_sitLoveseatSC2x1_01, object_stairs, object_stoveMinorLOW_01, object_tableDining_2x1, object_toiletC_02, object_trashcan_Indoor_MedCapacity, object_trashcan_outdoor, object_tvSurfaceLOW1x1_01, prototype, prototype_RetailCompatible_WallObject, rabbitHole_Tree
+2026-10-09 20:07:11 Sleep Control 0.1.0 starting, settings at /Users/sheena/Documents/Electronic Arts/The Sims 4/Mods/SleepControl_Settings.json
+2026-10-09 20:07:11 Autonomy hook installed
+2026-10-09 20:07:48 Computer menu added to 20 objects (marker <class 'sims4.tuning.instances.computer_Browse_Web'>): object_Computer, object_ComputerGlasses, object_Computer_AlienComp, object_Computer_CrimSuitcase, object_Computer_DS, object_Computer_EP01RWmodern, object_Computer_EP03ENTHIGHmetal, object_Computer_EP12RWexpert, object_Computer_EP12expertPC, object_Computer_EP12starterPC, object_Computer_High, object_Computer_PRIM, object_Computer_TP01HOME, object_Computer_Tesla, object_Computer_TopQuality_DualMonitor, object_Computer_Vintage, object_Computer_Webcam, object_computerDesktopMED_01, object_computerDesktopRWSpecWCool_01, object_computerLOW_01
+2026-10-09 20:08:37 Sleep-allow buff found: buff_AllowSleepDesire
+2026-10-09 20:08:37 Energy need found: <class 'sims4.tuning.instances.motive_Energy'>
+2026-10-09 20:08:37 DIAG: affordance=<class 'sims4.tuning.instances.SleepControl:Computer_OpenSettings'> allow_user_directed=True visible=False has_display_name=True
+2026-10-09 20:08:37 DIAG: object object_computerDesktopMED_01 (597034040636053466)
+  in tuning: True
+  available: True
+  in super_affordances: True
+  parts: []
+  supports on object_computerDesktopMED_01:0x0849174bf6ed97da: True
+  test on object_computerDesktopMED_01:0x0849174bf6ed97da: True None
+  offered on object_computerDesktopMED_01:0x0849174bf6ed97da: True (667 total)
+2026-10-09 20:11:25 Sleep Control 0.1.0 starting, settings at /Users/sheena/Documents/Electronic Arts/The Sims 4/Mods/SleepControl_Settings.json
+2026-10-09 20:11:25 Autonomy hook installed
+2026-10-09 20:11:53 Computer menu added to 20 objects (marker <class 'sims4.tuning.instances.computer_Browse_Web'>): object_Computer, object_ComputerGlasses, object_Computer_AlienComp, object_Computer_CrimSuitcase, object_Computer_DS, object_Computer_EP01RWmodern, object_Computer_EP03ENTHIGHmetal, object_Computer_EP12RWexpert, object_Computer_EP12expertPC, object_Computer_EP12starterPC, object_Computer_High, object_Computer_PRIM, object_Computer_TP01HOME, object_Computer_Tesla, object_Computer_TopQuality_DualMonitor, object_Computer_Vintage, object_Computer_Webcam, object_computerDesktopMED_01, object_computerDesktopRWSpecWCool_01, object_computerLOW_01
+2026-10-09 20:12:18 Sleep-allow buff found: buff_AllowSleepDesire
+2026-10-09 20:12:18 Energy need found: <class 'sims4.tuning.instances.motive_Energy'>
+2026-10-09 20:12:18 DIAG: affordance=<class 'sims4.tuning.instances.SleepControl:Computer_OpenSettings'> allow_user_directed=True visible=False has_display_name=True
+2026-10-09 20:12:18 DIAG: object object_computerDesktopMED_01 (597034040636053466)
+  in tuning: True
+  available: True
+  in super_affordances: True
+  parts: []
+  supports on object_computerDesktopMED_01:0x0849174bf6ed97da: True
+  test on object_computerDesktopMED_01:0x0849174bf6ed97da: True None
+  offered on object_computerDesktopMED_01:0x0849174bf6ed97da: True (667 total)
+2026-10-09 20:32:15 SLIDER update: color=4278255360 slider=0.8
+2026-10-09 20:32:34 SLIDER closed response=0
+2026-10-09 20:36:31 Sleep Control 0.1.0 starting, settings at /Users/sheena/Documents/Electronic Arts/The Sims 4/Mods/SleepControl_Settings.json
+2026-10-09 20:36:31 Autonomy hook installed
+2026-10-09 20:37:15 Computer menu added to 20 objects (marker <class 'sims4.tuning.instances.computer_Browse_Web'>): object_Computer, object_ComputerGlasses, object_Computer_AlienComp, object_Computer_CrimSuitcase, object_Computer_DS, object_Computer_EP01RWmodern, object_Computer_EP03ENTHIGHmetal, object_Computer_EP12RWexpert, object_Computer_EP12expertPC, object_Computer_EP12starterPC, object_Computer_High, object_Computer_PRIM, object_Computer_TP01HOME, object_Computer_Tesla, object_Computer_TopQuality_DualMonitor, object_Computer_Vintage, object_Computer_Webcam, object_computerDesktopMED_01, object_computerDesktopRWSpecWCool_01, object_computerLOW_01
+2026-10-09 20:38:15 Sleep-allow buff found: buff_AllowSleepDesire
+2026-10-09 20:38:15 Energy need found: <class 'sims4.tuning.instances.motive_Energy'>
+2026-10-09 20:38:15 DIAG: affordance=<class 'sims4.tuning.instances.SleepControl:Computer_OpenSettings'> allow_user_directed=True visible=False has_display_name=True
+2026-10-09 20:38:15 DIAG: object object_computerDesktopMED_01 (597034040636053466)
+  in tuning: True
+  available: True
+  in super_affordances: True
+  parts: []
+  supports on object_computerDesktopMED_01:0x0849174bf6ed97da: True
+  test on object_computerDesktopMED_01:0x0849174bf6ed97da: True None
+  offered on object_computerDesktopMED_01:0x0849174bf6ed97da: True (667 total)
+2026-10-09 20:42:17 Sleep Control 0.1.0 starting, settings at /Users/sheena/Documents/Electronic Arts/The Sims 4/Mods/SleepControl_Settings.json
+2026-10-09 20:42:17 Autonomy hook installed
+2026-10-09 20:43:01 Computer menu added to 20 objects (marker <class 'sims4.tuning.instances.computer_Browse_Web'>): object_Computer, object_ComputerGlasses, object_Computer_AlienComp, object_Computer_CrimSuitcase, object_Computer_DS, object_Computer_EP01RWmodern, object_Computer_EP03ENTHIGHmetal, object_Computer_EP12RWexpert, object_Computer_EP12expertPC, object_Computer_EP12starterPC, object_Computer_High, object_Computer_PRIM, object_Computer_TP01HOME, object_Computer_Tesla, object_Computer_TopQuality_DualMonitor, object_Computer_Vintage, object_Computer_Webcam, object_computerDesktopMED_01, object_computerDesktopRWSpecWCool_01, object_computerLOW_01
+2026-10-09 20:43:53 Sleep-allow buff found: buff_AllowSleepDesire
+2026-10-09 20:43:53 Energy need found: <class 'sims4.tuning.instances.motive_Energy'>
+2026-10-09 20:43:53 DIAG: affordance=<class 'sims4.tuning.instances.SleepControl:Computer_OpenSettings'> allow_user_directed=True visible=False has_display_name=True
+2026-10-09 20:43:53 DIAG: object object_computerDesktopMED_01 (597034040636053466)
+  in tuning: True
+  available: True
+  in super_affordances: True
+  parts: []
+  supports on object_computerDesktopMED_01:0x0849174bf6ed97da: True
+  test on object_computerDesktopMED_01:0x0849174bf6ed97da: True None
+  offered on object_computerDesktopMED_01:0x0849174bf6ed97da: True (667 total)
+2026-10-09 20:45:42 ICON 0 key='00000000!a8f82dfe'de7a182d.2f7d0004' error TypeError("object of type '_resourceman.Resource' has no len()")
+2026-10-09 20:45:42 ICON 40 key='00000000!a8f829fe'de7a1161.2f7d0004' error TypeError("object of type '_resourceman.Resource' has no len()")
+2026-10-09 20:45:42 ICON 100 key='00000000!a8f4a7fe'de76fea4.2f7d0004' error TypeError("object of type '_resourceman.Resource' has no len()")
+2026-10-09 20:45:42 ICON game error KeyError("resource does not exist: '00000000!deff693d'cfb5ddce.2f7d0004'")
+2026-10-09 20:53:15 DELAYTEST chosen go
+2026-10-09 20:53:15 DELAYTEST alarm <alarms.AlarmHandle object at 0x3755b7d40>
+2026-10-09 20:53:15 DELAYTEST direct shown True
+2026-10-09 20:53:16 DELAYTEST alarm fired
+2026-10-09 20:53:16 DELAYTEST shown True anchor=597034040636053466
+2026-10-09 20:54:00 DELAYTEST closed value=0.5
+2026-10-09 20:54:09 DELAYTEST closed value=0.38
+2026-10-09 20:54:37 CAMTEST shown True
+2026-10-09 20:54:50 CAMTEST closed value=0.38
+2026-10-09 20:57:30 Sleep Control 0.1.0 starting, settings at /Users/sheena/Documents/Electronic Arts/The Sims 4/Mods/SleepControl_Settings.json
+2026-10-09 20:57:30 Autonomy hook installed
+2026-10-09 20:58:58 Computer menu added to 20 objects (marker <class 'sims4.tuning.instances.computer_Browse_Web'>): object_Computer, object_ComputerGlasses, object_Computer_AlienComp, object_Computer_CrimSuitcase, object_Computer_DS, object_Computer_EP01RWmodern, object_Computer_EP03ENTHIGHmetal, object_Computer_EP12RWexpert, object_Computer_EP12expertPC, object_Computer_EP12starterPC, object_Computer_High, object_Computer_PRIM, object_Computer_TP01HOME, object_Computer_Tesla, object_Computer_TopQuality_DualMonitor, object_Computer_Vintage, object_Computer_Webcam, object_computerDesktopMED_01, object_computerDesktopRWSpecWCool_01, object_computerLOW_01
+2026-10-09 21:01:14 Sleep-allow buff found: buff_AllowSleepDesire
+2026-10-09 21:01:14 Energy need found: <class 'sims4.tuning.instances.motive_Energy'>
+2026-10-09 21:01:14 DIAG: affordance=<class 'sims4.tuning.instances.SleepControl:Computer_OpenSettings'> allow_user_directed=True visible=False has_display_name=True
+2026-10-09 21:01:14 DIAG: object object_computerDesktopMED_01 (597034040636053466)
+  in tuning: True
+  available: True
+  in super_affordances: True
+  parts: []
+  supports on object_computerDesktopMED_01:0x0849174bf6ed97da: True
+  test on object_computerDesktopMED_01:0x0849174bf6ed97da: True None
+  offered on object_computerDesktopMED_01:0x0849174bf6ed97da: True (667 total)
+2026-11-06 17:31:30 Sleep Control 0.1.0 starting, settings at /Users/sheena/Documents/Electronic Arts/The Sims 4/Mods/SleepControl_Settings.json
+2026-11-06 17:31:30 Autonomy hook installed
+2026-11-06 17:32:09 Computer menu added to 20 objects (marker <class 'sims4.tuning.instances.computer_Browse_Web'>): object_Computer, object_ComputerGlasses, object_Computer_AlienComp, object_Computer_CrimSuitcase, object_Computer_DS, object_Computer_EP01RWmodern, object_Computer_EP03ENTHIGHmetal, object_Computer_EP12RWexpert, object_Computer_EP12expertPC, object_Computer_EP12starterPC, object_Computer_High, object_Computer_PRIM, object_Computer_TP01HOME, object_Computer_Tesla, object_Computer_TopQuality_DualMonitor, object_Computer_Vintage, object_Computer_Webcam, object_computerDesktopMED_01, object_computerDesktopRWSpecWCool_01, object_computerLOW_01
+2026-11-06 17:36:52 Sleep-allow buff found: buff_AllowSleepDesire
+2026-11-06 17:36:52 Energy need found: <class 'sims4.tuning.instances.motive_Energy'>
+2026-11-06 17:36:52 DIAG: affordance=<class 'sims4.tuning.instances.SleepControl:Computer_OpenSettings'> allow_user_directed=True visible=False has_display_name=True
+2026-11-06 17:36:53 DIAG: object object_computerDesktopMED_01 (597034040636053466)
+  in tuning: True
+  available: True
+  in super_affordances: True
+  parts: []
+  supports on object_computerDesktopMED_01:0x0849174bf6ed97da: True
+  test on object_computerDesktopMED_01:0x0849174bf6ed97da: True None
+  offered on object_computerDesktopMED_01:0x0849174bf6ed97da: True (667 total)
+2026-11-06 18:12:50 Sleep Control 0.1.0 starting, settings at /Users/sheena/Documents/Electronic Arts/The Sims 4/Mods/SleepControl_Settings.json
+2026-11-06 18:12:50 Autonomy hook installed
+2026-11-06 18:13:16 Computer menu added to 20 objects (marker <class 'sims4.tuning.instances.computer_Browse_Web'>): object_Computer, object_ComputerGlasses, object_Computer_AlienComp, object_Computer_CrimSuitcase, object_Computer_DS, object_Computer_EP01RWmodern, object_Computer_EP03ENTHIGHmetal, object_Computer_EP12RWexpert, object_Computer_EP12expertPC, object_Computer_EP12starterPC, object_Computer_High, object_Computer_PRIM, object_Computer_TP01HOME, object_Computer_Tesla, object_Computer_TopQuality_DualMonitor, object_Computer_Vintage, object_Computer_Webcam, object_computerDesktopMED_01, object_computerDesktopRWSpecWCool_01, object_computerLOW_01
+2026-11-06 18:13:40 Sleep-allow buff found: buff_AllowSleepDesire
+2026-11-06 18:13:40 Energy need found: <class 'sims4.tuning.instances.motive_Energy'>
+2026-11-06 18:13:40 DIAG: affordance=<class 'sims4.tuning.instances.SleepControl:Computer_OpenSettings'> allow_user_directed=True visible=False has_display_name=True
+2026-11-06 18:13:40 DIAG: object object_computerDesktopMED_01 (597034040636053466)
+  in tuning: True
+  available: True
+  in super_affordances: True
+  parts: []
+  supports on object_computerDesktopMED_01:0x0849174bf6ed97da: True
+  test on object_computerDesktopMED_01:0x0849174bf6ed97da: True None
+  offered on object_computerDesktopMED_01:0x0849174bf6ed97da: True (667 total)
+2026-11-06 20:01:41 Sleep Control 0.1.0 starting, settings at /Users/sheena/Documents/Electronic Arts/The Sims 4/Mods/SleepControl_Settings.json
+2026-11-06 20:01:41 Autonomy hook installed
+2026-11-06 20:02:05 Computer menu added to 20 objects (marker <class 'sims4.tuning.instances.computer_Browse_Web'>): object_Computer, object_ComputerGlasses, object_Computer_AlienComp, object_Computer_CrimSuitcase, object_Computer_DS, object_Computer_EP01RWmodern, object_Computer_EP03ENTHIGHmetal, object_Computer_EP12RWexpert, object_Computer_EP12expertPC, object_Computer_EP12starterPC, object_Computer_High, object_Computer_PRIM, object_Computer_TP01HOME, object_Computer_Tesla, object_Computer_TopQuality_DualMonitor, object_Computer_Vintage, object_Computer_Webcam, object_computerDesktopMED_01, object_computerDesktopRWSpecWCool_01, object_computerLOW_01
+2026-11-06 20:02:26 Sleep-allow buff found: buff_AllowSleepDesire
+2026-11-06 20:02:26 Energy need found: <class 'sims4.tuning.instances.motive_Energy'>
+2026-11-06 20:02:26 DIAG: affordance=<class 'sims4.tuning.instances.SleepControl:Computer_OpenSettings'> allow_user_directed=True visible=False has_display_name=True
+2026-11-06 20:02:26 DIAG: object object_computerDesktopMED_01 (597034040636053466)
+  in tuning: True
+  available: True
+  in super_affordances: True
+  parts: []
+  supports on object_computerDesktopMED_01:0x0849174bf6ed97da: True
+  test on object_computerDesktopMED_01:0x0849174bf6ed97da: True None
+  offered on object_computerDesktopMED_01:0x0849174bf6ed97da: True (667 total)
+2026-11-06 20:08:38 Sleep Control 0.1.0 starting, settings at /Users/sheena/Documents/Electronic Arts/The Sims 4/Mods/SleepControl_Settings.json
+2026-11-06 20:08:38 Autonomy hook installed
+2026-11-06 20:09:03 Computer menu added to 20 objects (marker <class 'sims4.tuning.instances.computer_Browse_Web'>): object_Computer, object_ComputerGlasses, object_Computer_AlienComp, object_Computer_CrimSuitcase, object_Computer_DS, object_Computer_EP01RWmodern, object_Computer_EP03ENTHIGHmetal, object_Computer_EP12RWexpert, object_Computer_EP12expertPC, object_Computer_EP12starterPC, object_Computer_High, object_Computer_PRIM, object_Computer_TP01HOME, object_Computer_Tesla, object_Computer_TopQuality_DualMonitor, object_Computer_Vintage, object_Computer_Webcam, object_computerDesktopMED_01, object_computerDesktopRWSpecWCool_01, object_computerLOW_01
+2026-11-06 20:09:25 Sleep-allow buff found: buff_AllowSleepDesire
+2026-11-06 20:09:25 Energy need found: <class 'sims4.tuning.instances.motive_Energy'>
+2026-11-06 20:09:25 DIAG: affordance=<class 'sims4.tuning.instances.SleepControl:Computer_OpenSettings'> allow_user_directed=True visible=False has_display_name=True
+2026-11-06 20:09:25 DIAG: object object_computerDesktopMED_01 (597034040636053466)
+  in tuning: True
+  available: True
+  in super_affordances: True
+  parts: []
+  supports on object_computerDesktopMED_01:0x0849174bf6ed97da: True
+  test on object_computerDesktopMED_01:0x0849174bf6ed97da: True None
+  offered on object_computerDesktopMED_01:0x0849174bf6ed97da: True (667 total)
+2026-11-06 20:14:43 Sleep Control 0.1.0 starting, settings at /Users/sheena/Documents/Electronic Arts/The Sims 4/Mods/SleepControl_Settings.json
+2026-11-06 20:14:43 Autonomy hook installed
+2026-11-06 20:15:09 Computer menu added to 20 objects (marker <class 'sims4.tuning.instances.computer_Browse_Web'>): object_Computer, object_ComputerGlasses, object_Computer_AlienComp, object_Computer_CrimSuitcase, object_Computer_DS, object_Computer_EP01RWmodern, object_Computer_EP03ENTHIGHmetal, object_Computer_EP12RWexpert, object_Computer_EP12expertPC, object_Computer_EP12starterPC, object_Computer_High, object_Computer_PRIM, object_Computer_TP01HOME, object_Computer_Tesla, object_Computer_TopQuality_DualMonitor, object_Computer_Vintage, object_Computer_Webcam, object_computerDesktopMED_01, object_computerDesktopRWSpecWCool_01, object_computerLOW_01
+2026-11-06 20:15:35 Sleep-allow buff found: buff_AllowSleepDesire
+2026-11-06 20:15:35 Energy need found: <class 'sims4.tuning.instances.motive_Energy'>
+2026-11-06 20:15:35 DIAG: affordance=<class 'sims4.tuning.instances.SleepControl:Computer_OpenSettings'> allow_user_directed=True visible=False has_display_name=True
+2026-11-06 20:15:36 DIAG: object object_computerDesktopMED_01 (597034040636053466)
+  in tuning: True
+  available: True
+  in super_affordances: True
+  parts: []
+  supports on object_computerDesktopMED_01:0x0849174bf6ed97da: True
+  test on object_computerDesktopMED_01:0x0849174bf6ed97da: True None
+  offered on object_computerDesktopMED_01:0x0849174bf6ed97da: True (667 total)
+2026-11-06 20:30:59 Sleep Control 0.1.0 starting, settings at /Users/sheena/Documents/Electronic Arts/The Sims 4/Mods/SleepControl_Settings.json
+2026-11-06 20:30:59 Autonomy hook installed
+2026-11-06 20:31:26 Computer menu added to 20 objects (marker <class 'sims4.tuning.instances.computer_Browse_Web'>): object_Computer, object_ComputerGlasses, object_Computer_AlienComp, object_Computer_CrimSuitcase, object_Computer_DS, object_Computer_EP01RWmodern, object_Computer_EP03ENTHIGHmetal, object_Computer_EP12RWexpert, object_Computer_EP12expertPC, object_Computer_EP12starterPC, object_Computer_High, object_Computer_PRIM, object_Computer_TP01HOME, object_Computer_Tesla, object_Computer_TopQuality_DualMonitor, object_Computer_Vintage, object_Computer_Webcam, object_computerDesktopMED_01, object_computerDesktopRWSpecWCool_01, object_computerLOW_01
+2026-11-06 20:31:47 Sleep-allow buff found: buff_AllowSleepDesire
+2026-11-06 20:31:47 Energy need found: <class 'sims4.tuning.instances.motive_Energy'>
+2026-11-06 20:31:47 DIAG: affordance=<class 'sims4.tuning.instances.SleepControl:Computer_OpenSettings'> allow_user_directed=True visible=False has_display_name=True
+2026-11-06 20:31:47 DIAG: object object_computerDesktopMED_01 (597034040636053466)
+  in tuning: True
+  available: True
+  in super_affordances: True
+  parts: []
+  supports on object_computerDesktopMED_01:0x0849174bf6ed97da: True
+  test on object_computerDesktopMED_01:0x0849174bf6ed97da: True None
+  offered on object_computerDesktopMED_01:0x0849174bf6ed97da: True (667 total)

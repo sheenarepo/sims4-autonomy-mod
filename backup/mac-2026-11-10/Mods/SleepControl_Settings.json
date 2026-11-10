@@ -1,0 +1,14 @@
+{
+  "enabled": true,
+  "nap": {
+    "energy_threshold": 50,
+    "window_end": "14:00",
+    "window_start": "12:00"
+  },
+  "sleep": {
+    "energy_threshold": 20,
+    "window_end": "06:00",
+    "window_start": "22:00"
+  },
+  "version": 1
+}
