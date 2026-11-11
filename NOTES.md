@@ -58,3 +58,8 @@
 ## Before release
 - Remove the temporary sleepcontrol.dev command and Mods/SleepControl_dev.txt.
 - Remove the empty Mods/_to_delete folder.
+
+## Applied 2026-11-10
+- Added the confirmed sleep/nap names to game_hooks.py (3 sleep, 5 nap). The "proposed, not confirmed" sleep names were NOT added.
+- Replaced the stale test_bar_icons (icons were removed) with a test for the added names and decided exclusions.
+- Build verified with Python 3.7.12 (conda-forge). Queued-sleep feature still waits on the in-game queue probe (branch sleepcontrol-queue-probe).

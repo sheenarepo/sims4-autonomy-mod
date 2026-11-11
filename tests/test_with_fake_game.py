@@ -463,11 +463,19 @@ class FakeGameTests(unittest.TestCase):
         self.assertEqual([d.kind for d in SHOWN[-2:]], ['notice', 'text'])
         self.assertEqual(SETTINGS.get('nap', 'energy_threshold'), 23)
 
-    def test_bar_icons(self):
-        from sleepcontrol import dialogs, computer
-        self.assertEqual(dialogs.bar_icon_instance(38), computer.fnv64('SleepControl:bar_040'))
-        self.assertEqual(dialogs.bar_icon_instance(0), computer.fnv64('SleepControl:bar_000'))
-        self.assertEqual(dialogs.bar_icon_instance(100), computer.fnv64('SleepControl:bar_100'))
+    def test_added_sleep_and_nap_names(self):
+        from sleepcontrol import game_hooks, rules
+        for name in ('bed_Sleep_MasteryPerk_SkillfulSleep_FromLoad',
+                     'masteryPerk_SkillfulSleep_AutonomyPing',
+                     'hospitalExamBed_Patient_Recline_Sleep'):
+            self.assertEqual(game_hooks.classify_name(name), rules.SLEEP, name)
+        for name in ('bed_Nap_PowerNap', 'bathtub_Nap_Loop', 'bathtub_Nap_Loop_Auto',
+                     'beachTowel_Nap_PutInInventory_BeachTowel', 'sit_Chaise_Mixers_Nap'):
+            self.assertEqual(game_hooks.classify_name(name), rules.NAP, name)
+        # decided exclusions stay unclassified
+        for name in ('chair_LoungeChair_RelaxFromNap', 'HighChair_Nap',
+                     'atWorkActions_Daycare_Nap', 'costumeBox_CalledToWear_Sleep'):
+            self.assertIsNone(game_hooks.classify_name(name), name)
 
     def test_menu_window_and_reset(self):
         SIMS.append(Sim(SimInfo(50)))
